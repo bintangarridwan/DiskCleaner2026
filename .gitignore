@@ -1,0 +1,7 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Catatan desain dari tool UI, tidak dibutuhkan untuk menjalankan aplikasi
+design-system/
